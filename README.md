@@ -1,2 +1,4 @@
-# kaggle_dataset_reviewanalysis_06102021
-Kaggle - Dataset - Review Analysis - 06102021
+# ABOUT
+
+- Kaggle - Dataset - Review Analysis - 06102021
+- Published: https://rpubs.com/cxh190001/779758
